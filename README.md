@@ -20,7 +20,8 @@
 
 ## responsive on small mobile screens
 
-![image](https://user-images.githubusercontent.com/51326421/119897921-4c73de80-bf6b-11eb-90b1-151d65f53f2d.png)
+![image](https://user-images.githubusercontent.com/51326421/119899141-f1db8200-bf6c-11eb-8425-1dadc99e9d2b.png)
+
 
 
 
